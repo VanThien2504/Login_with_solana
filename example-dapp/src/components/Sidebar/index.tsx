@@ -227,7 +227,9 @@ const Sidebar = React.memo((props: Props) => {
         )}
       </Body>
       {/* 😊 💕  */}
-      
+      <Tag>
+        Team SOL25 <a href="https://phantom.app">Phantom</a> on the Top
+      </Tag>
     </Main>
   );
 });
